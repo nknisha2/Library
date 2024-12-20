@@ -1,0 +1,6 @@
+Flask
+mysqlclient
+Flask-MySQLdb
+wtforms
+requests
+mysql.connector
